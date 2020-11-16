@@ -1,0 +1,7 @@
+# README file ignored
+README.md
+# side.txt from build folder will be ignored
+build/side.txt
+# .doc files will be ignored
+*.doc
+
